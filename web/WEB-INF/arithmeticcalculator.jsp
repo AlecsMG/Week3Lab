@@ -24,7 +24,7 @@
            
            <p>Result: ${message}</p>
            
-           
+           <a href = "age">Age Calculator</a>
         </form>
     </body>
 </html>
